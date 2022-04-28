@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COVID India Tracker</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="text_confirmed_cases">Confirmed Cases : %s</string>
+    <string name="text_last_updated">Last Updated : %s</string>
+    <string name="default_notification_channel_name">Covid-19 India</string>
+    <string name="developed_with_by_mukul">Developed with ❤️ by MukulCode</string>
+    <string name="covid_19_tracker_n_india">COVID-19 TRACKER \n INDIA</string>
+</resources>
